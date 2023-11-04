@@ -83,8 +83,6 @@ Feel free to contribute to this project by submitting pull requests or reporting
 
 ## License
 
-This project is open-source and available under the [MIT License](https://chat.openai.com/c/LICENSE).
-
----
+This project is open-source and available under the [MIT License]().
 
 Enjoy using the Task Management API!
